@@ -1899,11 +1899,6 @@ cssstyle@^1.0.0:
   dependencies:
     cssom "0.3.x"
 
-ctx-polyfill@^1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/ctx-polyfill/-/ctx-polyfill-1.1.4.tgz#08420bc5c540d08ac36d05720ca503c65e302d65"
-  integrity sha1-CEILxcVA0IrDbQVyDKUDxl4wLWU=
-
 dashdash@^1.12.0:
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/dashdash/-/dashdash-1.14.1.tgz#853cfa0f7cbe2fed5de20326b8dd581035f6e2f0"
@@ -5099,13 +5094,6 @@ react-native-audio@^4.3.0:
   resolved "https://registry.yarnpkg.com/react-native-audio/-/react-native-audio-4.3.0.tgz#fae22b81f6a4dda706fd4837d0c6a89c66cf2e7e"
   integrity sha512-QQYq28eSJy+y/Ukvry0AkbwMVELAj+LcEwCVRH+7sKLqlnoBBxGd4ilhgJHjwOiC70192LueGbjXJjPPEwW3iA==
 
-react-native-canvas@^0.1.34:
-  version "0.1.34"
-  resolved "https://registry.yarnpkg.com/react-native-canvas/-/react-native-canvas-0.1.34.tgz#dd6796e741419c3fb2aef42bc59243619e1cf340"
-  integrity sha512-vFb6M4EyWfA8RNPE3effqYIDugQit0Q6ZRtRnolEhwlG7dliIfZl0e81gehP5fVQFbNZrppKM6M+wuEYJ3wL3g==
-  dependencies:
-    ctx-polyfill "^1.1.4"
-
 react-native-sound@^0.11.0:
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/react-native-sound/-/react-native-sound-0.11.0.tgz#ad60b55ba8c6dc89917f381ad3713f2738de530f"
@@ -5116,10 +5104,10 @@ react-native-svg@^9.11.1:
   resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-9.11.1.tgz#b1ccf48de413ff8c4f476f202aaa3893f4c8b59a"
   integrity sha512-BmNCM81SSzhj1+N5rYiy7sxrkmybgiT8Cu8yVRB7zVoWze/i1lbCWJah+Gk0OHHwR35ZA31oVKf5jtO4G1n94Q==
 
-react-native-webview@^7.4.2:
-  version "7.4.2"
-  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-7.4.2.tgz#4206ef92c95bcb7207fdade608e5f5a1f62a3f83"
-  integrity sha512-B9cKZCiQniIXlhhDwvd/GUA7HSsSNbFVkRbnvhmGjOrkBPiaK7Omq6t3/KMGxChD3o1qCsohH0Zrm0A7QUvQOg==
+react-native-webview@^11.0.0:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-11.0.0.tgz#d667cbcc772e963fe88a4156290d25fe47ed43b0"
+  integrity sha512-gzID5ebCFVNkxreuabClymo6QkJbXCLEtiIUY9QAhxY58HsDUp8x0YzDVEROYyEJ4ghL71koAOeQRDNAgNnh1w==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"

@@ -15,7 +15,7 @@
     "react-native-audio": "^4.3.0",
     "react-native-sound": "^0.11.0",
     "react-native-svg": "^9.11.1",
-    "react-native-webview": "^7.4.2"
+    "react-native-webview": "^11.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
